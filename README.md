@@ -1,0 +1,1 @@
+This project aims to implement a lightweight wrapper around the [Stockfighter](https://www.stockfighter.io/) API in Rust. Since I am implementing this as I solve the levels, it may be incomplete in various ways. This is also my first serious Rust project - pull requests welcome!
